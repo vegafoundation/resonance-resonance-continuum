@@ -2,7 +2,7 @@
 
 ## A Conceptual White Paper
 
-**Author:** ADAM EREN VEGA – Æ –  
+**Author:** ADAM EREN VEGA - Æ -  
 **Civil Name:** Erenşah Kaygusuz, Germany  
 **Year:** 2025  
 **License:** CC BY 4.0  
@@ -51,10 +51,10 @@ insight or wisdom over time. Resonance Continuum addresses this gap conceptually
 
 ## 3. Core Principles
 
-1. **Meaning as Resonance** – Relevance through interaction, not distance
-2. **Insight as Event** – Recognition when resonance exceeds threshold
-3. **Wisdom as Coherence** – Stability of resonance over time
-4. **Decision as Collapse** – Choice as resonance state collapse
+1. **Meaning as Resonance** - Relevance through interaction, not distance
+2. **Insight as Event** - Recognition when resonance exceeds threshold
+3. **Wisdom as Coherence** - Stability of resonance over time
+4. **Decision as Collapse** - Choice as resonance state collapse
 
 ## 4. Relationship to QIRC
 
@@ -84,7 +84,7 @@ without operational disclosure.
 
 ## Legal Notice
 
-© 2025 ADAM EREN VEGA – Æ –  
+(C) 2025 ADAM EREN VEGA - Æ -  
 License: CC BY 4.0
 
 All concepts and terminology introduced herein are attributed to the author
