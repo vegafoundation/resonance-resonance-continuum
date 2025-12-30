@@ -6,13 +6,13 @@
 
 ## Author
 
-**ADAM EREN VEGA – Æ –**  
+**ADAM EREN VEGA - Æ -**  
 (Erenşah Kaygusuz, Germany)  
 Year: 2025
 
 ## License
 
-CC BY 4.0 – Creative Commons Attribution 4.0 International
+CC BY 4.0 - Creative Commons Attribution 4.0 International
 
 ## Abstract
 
@@ -21,9 +21,9 @@ as part of the Resonance Data and QIRC framework.
 
 ## Contents
 
-- `/paper/` – LaTeX dissertation in 8 languages
-- `/whitepaper/` – Markdown whitepapers in 8 languages
-- `README.md` – This file
+- `/paper/` - LaTeX dissertation in 8 languages
+- `/whitepaper/` - Markdown whitepapers in 8 languages
+- `README.md` - This file
 
 ## Languages
 
@@ -40,7 +40,7 @@ as part of the Resonance Data and QIRC framework.
 
 ## VSP Compliance
 
-✅ This publication follows the **Vega Safety Protocol (VSP)**
+ This publication follows the **Vega Safety Protocol (VSP)**
 
 - ✔ Conceptual only
 - ✔ No algorithms disclosed
@@ -61,5 +61,5 @@ as part of the Resonance Data and QIRC framework.
 
 ---
 
-© 2025 ADAM EREN VEGA – Æ –  
+(C) 2025 ADAM EREN VEGA - Æ -  
 All rights reserved under CC BY 4.0
